@@ -1,0 +1,16 @@
+{
+    "name": "TheHangingHouse.JsonSerializer.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a4bb8ff028849fc4ebf5a0b7b454eb39"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

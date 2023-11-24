@@ -1,0 +1,17 @@
+{
+    "name": "TheHangingHouse.UI.Table.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:76b89aedf666edf45a3f08e61ffbd45c",
+        "GUID:a91ddfc2c7bf2214b9941ed3207bd05b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1005649050420",
+    "firebase_url": "https://dpworldmotorsportregistration-default-rtdb.firebaseio.com",
+    "project_id": "dpworldmotorsportregistration",
+    "storage_bucket": "dpworldmotorsportregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005649050420:android:6a1fa84fe936e627040361",
+        "android_client_info": {
+          "package_name": "com.thehanginghouse.DPWorld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9ioif_kTmIdyAFV8uu_91qJpFL4FL_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

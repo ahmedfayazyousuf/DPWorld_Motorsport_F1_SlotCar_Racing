@@ -1,0 +1,44 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class __ScriptName : AnimatableElement
+{
+    public override void OnBeforeShow()
+    {
+        gameObject.SetActive(true);
+    }
+
+    public override void OnAfterShow()
+    {
+
+    }
+
+    public override void OnBeforeHide()
+    {
+        
+    }
+
+    public override void OnAfterHide()
+    {
+        gameObject.SetActive(false);
+    }
+
+    public override IEnumerator ShowingClip(Action callback)
+    {
+        yield return null;
+        callback?.Invoke();
+    }
+
+    public override IEnumerator NormalClip()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override IEnumerator HidingClip(Action callback)
+    {
+        yield return null;
+        callback?.Invoke();
+    }
+}

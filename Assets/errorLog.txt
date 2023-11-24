@@ -1,0 +1,4915 @@
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__69:MoveNext () (at Assets/Scripts/TableUI.cs:130)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:432)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:443)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:477)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:434)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:445)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:479)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:434)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:445)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:479)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:445)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:456)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass75_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:490)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:398)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:340)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:147)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:398)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:268)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:147)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:483)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:494)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:528)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:483)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:494)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:528)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:446)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:316)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:483)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:494)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:528)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:446)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:316)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:483)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:494)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:528)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:483)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:494)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:528)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:417)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:345)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:345)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:345)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:345)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:475)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:417)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:467)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:337)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:467)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:409)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:435)
+TableUI/<ContinuousSignalHandling>d__68:MoveNext () (at Assets/Scripts/TableUI.cs:128)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:446)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass74_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:480)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:398)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:268)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:147)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:467)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:337)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:467)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:409)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Zaid
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:467)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:337)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:152)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:504)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:133)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:515)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:549)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:518)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:529)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:563)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:518)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:529)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass78_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:563)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:506)
+TableUI/<ContinuousSignalHandling>d__70:MoveNext () (at Assets/Scripts/TableUI.cs:135)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:517)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass77_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:551)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Barbie
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:473)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:342)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Barbie
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:473)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:414)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Exception: IndexOutOfRangeException: Index was outside the bounds of the array.
+
+StackTrace:
+TableUI.HandleSignal (System.Int32 signal) (at Assets/Scripts/TableUI.cs:372)
+TableUI.Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:510)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:521)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:555)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:513)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:524)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:558)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:513)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:524)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:558)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:143)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:512)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:137)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:523)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:557)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:474)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:342)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:474)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:414)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Unexpected exception thrown by QuerySnapshotsHandler() when invoked by P/Invoke: System.NullReferenceException: Object reference not set to an instance of an object
+  at TableUI.UpdatePlayerUI (System.Int32 index, System.String playerName, System.Double playerScore) [0x0006a] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:656 
+  at TableUI.UpdateLeaderboardUI (System.Collections.Generic.IEnumerable`1[T] documents) [0x0002a] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:637 
+  at TableUI+<>c__DisplayClass81_0.<SubscribeToLeaderboardUpdates>b__0 (Firebase.Firestore.QuerySnapshot snapshot) [0x00013] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:623 
+  at Firebase.Firestore.Query+<>c__DisplayClass45_1.<Listen>b__1 () [0x00001] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:757 
+  at Firebase.Dispatcher.Run[TResult] (System.Func`1[TResult] callback) [0x00019] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Dispatcher.cs:40 
+  at Firebase.Platform.FirebaseHandler.RunOnMainThread[TResult] (System.Func`1[TResult] f) [0x0000e] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseHandler.cs:115 
+  at Firebase.Firestore.Query+<>c__DisplayClass45_0.<Listen>b__0 (Firebase.Firestore.QuerySnapshotProxy snapshotProxy, Firebase.Firestore.FirestoreError errorCode, System.String errorMessage) [0x00035] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:756 
+  at Firebase.Firestore.Query.QuerySnapshotsHandler (System.Int32 callbackId, System.IntPtr snapshotPtr, Firebase.Firestore.FirestoreError errorCode, System.String errorMessage) [0x0001c] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:798 
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+Firebase.Platform.FirebaseLogger:LogMessage (Firebase.Platform.PlatformLogLevel,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseLogger.cs:95)
+Firebase.LogUtil:LogMessage (Firebase.LogLevel,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/src/LogUtil.cs:69)
+Firebase.Firestore.Internal.Util:OnPInvokeManagedException (System.Exception,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/internal/Util.cs:144)
+Firebase.Firestore.Query:QuerySnapshotsHandler (int,intptr,Firebase.Firestore.FirestoreError,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:802)
+Firebase.AppUtil:PollCallbacks () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/macos_unity/x86_64/app/swig/Firebase.App_fixed.cs:4812)
+Firebase.Platform.FirebaseAppUtils:PollCallbacks () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/FirebaseAppUtils.cs:33)
+Firebase.Platform.FirebaseHandler:Update () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseHandler.cs:208)
+Firebase.Platform.FirebaseMonoBehaviour:Update () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseMonoBehaviour.cs:45)
+
+
+Error: Unexpected exception thrown by QuerySnapshotsHandler() when invoked by P/Invoke: System.NullReferenceException: Object reference not set to an instance of an object
+  at TableUI.UpdatePlayerUI (System.Int32 index, System.String playerName, System.Double playerScore) [0x0006a] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:656 
+  at TableUI.UpdateLeaderboardUI (System.Collections.Generic.IEnumerable`1[T] documents) [0x0002a] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:637 
+  at TableUI+<>c__DisplayClass81_0.<SubscribeToLeaderboardUpdates>b__0 (Firebase.Firestore.QuerySnapshot snapshot) [0x00013] in C:\Users\Ahmed Fayaz\DPWorld_Motorsport_Admin\Assets\Scripts\TableUI.cs:623 
+  at Firebase.Firestore.Query+<>c__DisplayClass45_1.<Listen>b__1 () [0x00001] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:757 
+  at Firebase.Dispatcher.Run[TResult] (System.Func`1[TResult] callback) [0x00019] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Dispatcher.cs:40 
+  at Firebase.Platform.FirebaseHandler.RunOnMainThread[TResult] (System.Func`1[TResult] f) [0x0000e] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseHandler.cs:115 
+  at Firebase.Firestore.Query+<>c__DisplayClass45_0.<Listen>b__0 (Firebase.Firestore.QuerySnapshotProxy snapshotProxy, Firebase.Firestore.FirestoreError errorCode, System.String errorMessage) [0x00035] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:756 
+  at Firebase.Firestore.Query.QuerySnapshotsHandler (System.Int32 callbackId, System.IntPtr snapshotPtr, Firebase.Firestore.FirestoreError errorCode, System.String errorMessage) [0x0001c] in /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:798 
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+Firebase.Platform.FirebaseLogger:LogMessage (Firebase.Platform.PlatformLogLevel,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseLogger.cs:95)
+Firebase.LogUtil:LogMessage (Firebase.LogLevel,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/src/LogUtil.cs:69)
+Firebase.Firestore.Internal.Util:OnPInvokeManagedException (System.Exception,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/internal/Util.cs:144)
+Firebase.Firestore.Query:QuerySnapshotsHandler (int,intptr,Firebase.Firestore.FirestoreError,string) (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/firestore/src/Query.cs:802)
+Firebase.AppUtil:PollCallbacks () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/macos_unity/x86_64/app/swig/Firebase.App_fixed.cs:4812)
+Firebase.Platform.FirebaseAppUtils:PollCallbacks () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/FirebaseAppUtils.cs:33)
+Firebase.Platform.FirebaseHandler:Update () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseHandler.cs:208)
+Firebase.Platform.FirebaseMonoBehaviour:Update () (at /Users/runner/work/firebase-unity-sdk/firebase-unity-sdk/app/platform/Unity/FirebaseMonoBehaviour.cs:45)
+
+
+Error: Failed to fetch leaderboard data: Object reference not set to an instance of an object
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<FetchLeaderboard>d__80:MoveNext () (at Assets/Scripts/TableUI.cs:598)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:474)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:342)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:474)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:414)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Exception: IndexOutOfRangeException: Index was outside the bounds of the array.
+
+StackTrace:
+TableUI.HandleSignal (System.Int32 signal) (at Assets/Scripts/TableUI.cs:372)
+TableUI.Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Exception: IndexOutOfRangeException: Index was outside the bounds of the array.
+
+StackTrace:
+TableUI.HandleSignal (System.Int32 signal) (at Assets/Scripts/TableUI.cs:372)
+TableUI.Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:526)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:537)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:571)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:526)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:537)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:571)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:526)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:537)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:571)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:516)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:527)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:561)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:533)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:544)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:578)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:535)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:546)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:580)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:535)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:546)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:580)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:533)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:544)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass81_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:578)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:478)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:347)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:478)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:419)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:157)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:515)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:526)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:560)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:511)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:522)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass79_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:527)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:538)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:572)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:521)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:532)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:566)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:522)
+TableUI/<ContinuousSignalHandling>d__72:MoveNext () (at Assets/Scripts/TableUI.cs:138)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:533)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass80_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:567)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:532)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:140)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:543)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:577)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:532)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:140)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:543)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:577)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:529)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:540)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:574)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:529)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:540)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:574)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:529)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:540)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:574)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:530)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:541)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:575)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:531)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:542)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:576)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:531)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:542)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:576)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:531)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:542)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:576)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Exception: NullReferenceException: Object reference not set to an instance of an object
+
+StackTrace:
+TableUI+<>c__DisplayClass82_1.<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:591)
+MainThread.Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:531)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:542)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:576)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Exception: NullReferenceException: Object reference not set to an instance of an object
+
+StackTrace:
+TableUI+<>c__DisplayClass82_1.<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:591)
+MainThread.Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:494)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:361)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:160)
+
+
+Error: Ahmed
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:494)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:433)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:160)
+
+
+Exception: NullReferenceException: Object reference not set to an instance of an object
+
+StackTrace:
+TableUI.updatePlayer (System.Single score, System.Int32 playerNo) (at Assets/Scripts/TableUI.cs:512)
+TableUI.HandleSignal (System.Int32 signal) (at Assets/Scripts/TableUI.cs:433)
+TableUI.Update () (at Assets/Scripts/TableUI.cs:160)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:531)
+TableUI/<ContinuousSignalHandling>d__73:MoveNext () (at Assets/Scripts/TableUI.cs:141)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:542)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass82_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:576)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:542)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:553)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:589)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:553)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:589)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Ethan
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:501)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:368)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:167)
+
+
+Error: Ethan
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:501)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:440)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:167)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:542)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:553)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:589)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:545)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:592)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:545)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:592)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:545)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:592)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Player 1
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:FetchPlayerNames () (at Assets/Scripts/TableUI.cs:545)
+TableUI/<ContinuousSignalHandling>d__77:MoveNext () (at Assets/Scripts/TableUI.cs:148)
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+
+Error: Entered Player 1 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_0:<FetchPlayerNames>b__2 () (at Assets/Scripts/TableUI.cs:556)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Entered Player 2 Document
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI/<>c__DisplayClass86_1:<FetchPlayerNames>b__3 () (at Assets/Scripts/TableUI.cs:592)
+MainThread:Update () (at Assets/Scripts/MainThread.cs:23)
+
+
+Error: Tester
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:497)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:364)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:168)
+
+
+Error: Tester
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:497)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:436)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:168)
+
+
+Error: Tester
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:497)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:436)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:168)
+
+
+Error: Tester
+
+StackTrace:
+UnityEngine.Debug:LogError (object)
+TableUI:updatePlayer (single,int) (at Assets/Scripts/TableUI.cs:497)
+TableUI:HandleSignal (int) (at Assets/Scripts/TableUI.cs:364)
+TableUI:Update () (at Assets/Scripts/TableUI.cs:168)
+
+
+Exception: IndexOutOfRangeException: Index was outside the bounds of the array.
+
+StackTrace:
+TableUI.HandleSignal (System.Int32 signal) (at Assets/Scripts/TableUI.cs:394)
+TableUI.Update () (at Assets/Scripts/TableUI.cs:168)
+
+

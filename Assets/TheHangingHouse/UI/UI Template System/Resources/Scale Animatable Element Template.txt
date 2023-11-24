@@ -1,0 +1,56 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using TheHangingHouse.Animations;
+using UnityEngine;
+
+public class __ScriptName : AnimatableElement
+{
+    [Header("Animation Paramters")]
+    private AnimationKey m_animationKey = AnimationKey.EaseInOut * 2;
+
+    public override void OnBeforeShow()
+    {
+        transform.localScale = Vector3.zero;
+    }
+
+    public override void OnAfterShow()
+    {
+
+    }
+
+    public override void OnBeforeHide()
+    {
+
+    }
+
+    public override void OnAfterHide()
+    {
+
+    }
+
+    public override IEnumerator ShowingClip(Action callback)
+    {
+        yield return CoroutineClips.ScaleClip(
+            transform,
+            Vector3.one, 
+            m_animationKey,
+            callback
+            );
+    }
+
+    public override IEnumerator NormalClip()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override IEnumerator HidingClip(Action callback)
+    {
+        yield return CoroutineClips.ScaleClip(
+            transform,
+            Vector3.one,
+            m_animationKey,
+            callback
+            );
+    }
+}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f9c9ddc947b29549ae6212cbd5519f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pilat Wide
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ce7d13e994aa5b1479083758421bb602, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

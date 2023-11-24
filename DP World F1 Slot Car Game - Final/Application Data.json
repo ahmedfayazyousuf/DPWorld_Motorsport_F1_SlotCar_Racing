@@ -1,0 +1,12 @@
+[
+	{
+	    "name": "arduinoData",
+	    "objectID": "5f0732b4-cc5e-4583-919c-2edab075c2c6",
+	    "gameObjectName": "ArdityFramework",
+	    "valueType": "ArduinoManager+ArduinoJSON",
+	    "value": {
+	        "COM": "COM9",
+	        "BaudRate": 9600
+	    }
+	}
+]

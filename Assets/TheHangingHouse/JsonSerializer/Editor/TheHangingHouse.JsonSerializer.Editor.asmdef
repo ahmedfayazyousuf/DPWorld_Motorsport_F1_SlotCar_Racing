@@ -1,0 +1,19 @@
+{
+    "name": "TheHangingHouse.JsonSerializer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a4bb8ff028849fc4ebf5a0b7b454eb39",
+        "GUID:a91ddfc2c7bf2214b9941ed3207bd05b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
